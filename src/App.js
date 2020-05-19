@@ -25,7 +25,7 @@ class App extends Component {
         name={this.state.user[2].name}
         />
         <User 
-        name={this.state.user[3].name}
+        name={this.state.user[2].name}
         />
       </div>
     );
